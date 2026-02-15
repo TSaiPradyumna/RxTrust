@@ -1,0 +1,24 @@
+id | product | batch | manufacturer | verdict | reason
+--------------------------------------------------------------------------------------------------------------------------------------------
+57 | ZERODOL-SP TABLETS | FND0725001BH | Ipca Laboratories Ltd. | 🔴 ALERT | Assay failure of Aceclofenac, Paracetamol, Serratiopeptidase
+58 | AMBROX-LG | TS-249 | Trimedix Pharma (P) Ltd. | 🔴 ALERT | Assay failure of Levosalbutamol
+59 | ZALTAC Syrup | MDL-C490 | Marvellon Pharmaceuticals Pvt. Ltd. | 🔴 ALERT | pH and assay failure
+60 | Anset Tablets | RBMT-921 | Ronald Pharmaceuticals (P) Ltd. | 🔴 ALERT | Related substances test failure
+61 | Reslone Drops | L-250705 | Dr. Pal'S Pharmaceuticals | 🟡 CAUTION | Weight per ml failure
+62 | SNEFLAM DS SUSPENSION | L25J001 | Snehal Pharma & Surgicals Pvt. Ltd. | 🔴 ALERT | Microbial contamination
+63 | Tigelite Injection 50mg | LAA139 | Lyka Labs Ltd. | 🔴 ALERT | Related substances test failure
+64 | Itraconazole Capsules BP 200 mg | R08GC2506A | Rednex Pharmaceuticals Ltd. | 🔴 ALERT | Dissolution failure
+65 | LUZORAN Lotion 30ml | R09GE2518B | Rednex Pharmaceuticals Limited | 🔴 ALERT | Related substances test failure
+66 | Ezicold Syrup 60ml | L3126 | Camper Healthcare | 🔴 ALERT | Assay of Phenylephrine HCl failure
+67 | Glycerin IP | 3F/RG/24/0054 | 3F Industries Ltd. | 🟡 CAUTION | Aldehydes test failure
+68 | Kaytin MB 1ml | MA25D33 | Martin & Brown Bio-Sciences Pvt. Ltd. | 🔴 ALERT | Assay failure
+69 | PED-DS suspension 60ml | L-250901 | Dr. Pal's Pharmaceuticals | 🔴 ALERT | Microbial contamination
+70 | Neosorb 70/70B-Sirop De Sorbitol | 599646 | Roquette Freres, France | 🟡 CAUTION | Angle of rotation failure
+71 | Paracetamol Tablets IP 650mg | PCT25057 | Vivek Pharmachem (India) Ltd. | 🔴 ALERT | Dissolution failure
+72 | Sorbitol Solution 70% IP Non Crystallizing | 2526010 | Gujarat Ambuja Exports Ltd. | 🟡 CAUTION | Angle of rotation failure
+73 | Clopidogrel & Aspirin Tablets IP | GT250518 | Theon Pharmaceuticals Ltd. | 🟡 CAUTION | Description and free salicylic acid failure
+74 | Clopidogrel & Aspirin Tablets IP | GT250519 | Theon Pharmaceuticals Ltd. | 🟡 CAUTION | Description and free salicylic acid failure
+75 | Epivell-500 Tablets | GT5F136 | Ritual Drugs Pvt. Ltd. | 🔴 ALERT | Dissolution failure
+76 | Poly Ethylene Glycol - 200 | 43029642 | Saudi Basic Industries Corporation (SABIC) | 🔴 ALERT | EG/DEG impurities exceed limits
+
+Status: ✅ This script runs on a personal PC with Python 3.9+ (no pip dependencies).
